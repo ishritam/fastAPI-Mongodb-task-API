@@ -5,7 +5,7 @@
 2) Delete Task  
 3) Update a Task (This can include marking the task as complete or  updating the due date)
 4) View a Task 
-5) Share task with another user using their email (Only view access)
+5) Share task with another user using their email 
 
 Project Organization
 ------------
