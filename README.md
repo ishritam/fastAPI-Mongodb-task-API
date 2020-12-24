@@ -1,5 +1,8 @@
 # fastAPI-Mongodb-task-API
 
+# What for
+This project is based on fastapi+mongodb. It can be used as a sample backend or a sample fastapi project with mongodb.
+
 ## The key features are:
 1) Add Task  (Add task name & due date)
 2) Delete Task  
@@ -7,7 +10,7 @@
 4) View a Task 
 5) Share task with another user using their email 
 
-Project Organization
+Project structure
 ------------
 
     .
@@ -27,7 +30,7 @@ Project Organization
   - This can run on Windows / Linux(Ubuntu 20.04) system.
   - It is advised to create a virtual enviornment if you have existing conflicts with python & other libraries/packages installtions.
 
-## How to replicate project in your system ?
+## Quickstart
 
   - Make sure you have updated your OS to latest version.
   - Install all necessary dependencies for this project from requirements.txt
