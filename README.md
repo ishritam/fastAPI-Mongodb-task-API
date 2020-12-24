@@ -12,6 +12,10 @@ This project is based on fastapi+mongodb. It can be used as a sample backend or 
 4) View a Task 
 5) Share task with another user using their email 
 
+# Special Usage:
+* FastAPI as framework (https://fastapi.tiangolo.com/)
+* Motor (https://motor.readthedocs.io/en/stable/index.html) as MongoDb Driver.
+
 Project structure
 ------------
 
