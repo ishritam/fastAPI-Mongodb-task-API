@@ -1,0 +1,8 @@
+{
+    "params":
+    {
+        "MongoDB_host": "mongodb://localhost:27017",
+        "Mail_sender_id": "your_mail@gmail.com",
+        "Mail_sender_password": "********your password**********"
+    }
+}
