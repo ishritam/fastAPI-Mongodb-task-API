@@ -17,9 +17,8 @@ Project Organization
     ├── README.md                   > The top-level README for developers using this project.
     ├── requirements.txt            > All the requirements which is needed to run this project.
     ├── src
-    ├── mail.py                     > To share task with another user using their email.
-    └── __pycache__
-        └── mail.cpython-37.pyc
+        ├── mail.py                     > To share task with another user using their email.
+        
 
 
 --------
